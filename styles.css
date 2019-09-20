@@ -1,0 +1,175 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Vollkorn&display=swap);
+
+body{
+
+  background-color: black;
+  font-family: 'Vollkorn', serif;
+
+}
+
+/* *{
+  border: 1px white solid ;
+} */
+
+.navBar{
+  
+  display: inline-block;
+  text-align: right;
+  margin: 0;
+
+  padding: 18px;
+  width: 100%;
+  left: -5%;
+  top: 6%;
+
+  font-size: 30pt;
+  position: fixed;
+
+
+}
+
+
+.navLink{
+  margin: 10px;
+  background-color: black;
+
+
+}
+
+
+.centerBox{
+  /* background-color: black; */
+  display: inline-block;
+  text-align: center;
+  /* position: fixed; */
+  width: 100%;
+  
+}
+
+
+.mainImg{
+  
+  
+  margin: 0px;
+  padding: 0px;
+  width: 20%;
+
+  
+}
+
+h1{
+  text-align: center;
+  margin: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+
+
+}
+.title{
+  color: whitesmoke;
+  font-size: 50pt;
+  margin-bottom: 00px;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+
+}
+
+.subTitle{
+  color: gray;
+  font-size: 35px;
+  margin-top: 0px;
+  padding: 2px;
+
+}
+
+.titleImg{
+  /* align-self: center; */
+  width: 60%;
+}
+
+
+.centerContent{
+  text-align: center;
+}
+
+
+
+.content{
+  color: grey;
+  font-size: 25px;
+  margin-left: 200px;
+  margin-right: 200px;
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0), white); */
+  
+}
+
+
+.moreButton{
+  background-color: rgba(245, 245, 245, 0.434);
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  border: inset 4px grey;
+  border-radius: 7px ;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  
+}
+
+
+.article{
+  color: grey;
+  font-size: 25px;
+  margin: 130px;
+  margin-top: 20px;
+  text-align: center;
+
+  
+}
+
+
+
+  
+
+
+
+.flavorImgLeft{
+  margin: 150px;
+  padding: 50px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+
+}
+
+
+.flavorImgRight{
+  margin: 180;
+  margin-top: 0px;
+  padding: 50px;
+  text-align: center;
+  padding-top: 0px;
+}
+
+
+#kitkat{
+  display: inline-block;
+  text-align: right;
+  width:100%;
+
+  margin-top: 20px;
+
+  color: red;
+  font-size: 19px;
+
+
+ 
+}
